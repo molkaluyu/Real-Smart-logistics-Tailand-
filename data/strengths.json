@@ -1,0 +1,55 @@
+{
+  "strengths": [
+    {
+      "id": "one-stop",
+      "icon": "Anchor",
+      "title": {
+        "en": "One-Stop Service",
+        "th": "บริการแบบ One-Stop"
+      },
+      "description": {
+        "en": "End-to-end logistics solutions from cargo collection to final delivery. A single dedicated customer service representative manages the entire process, eliminating the need for multiple service providers. Benefit from streamlined operations, enhanced efficiency, and reduced costs.",
+        "th": "โซลูชันโลจิสติกส์แบบ End-to-End จากการเก็บสินค้าสู่การส่งมอบสุดท้าย ทีมงานเฉพาะบุคคลดำเนินการกระบวนการทั้งหมด ยกเลิกรายการติดต่อหลายบริการผู้ให้บริการ ข้อดี: การดำเนินงานราบรื่น ปรับปรุงประสิทธิภาพ ลดต้นทุน"
+      },
+      "image": "/images/one-stop-service.png",
+      "alt": {
+        "en": "One-Stop Service Illustration",
+        "th": "ภาพประกอบบริการแบบ One-Stop"
+      }
+    },
+    {
+      "id": "worldwide",
+      "icon": "Globe",
+      "title": {
+        "en": "Worldwide Coverage",
+        "th": "การครอบคลุมระดับโลก"
+      },
+      "description": {
+        "en": "Service network spanning major global ports, airports, and logistics hubs. Partnerships with trusted carriers, freight forwarders, and customs agents ensure timely, secure delivery. Applicable for main trade routes and emerging markets.",
+        "th": "เผด็จการเครือข่ายพันธมิตรระดับโลก ให้บริการขึ้นถึงท่าเรือหลัก สนามบิน และศูนย์กระจายสินค้าหลัก สวมงานกับผู้ให้บริการขนส่ง สำนักเปลี่ยนสินค้า และผู้ตรวจสอบ hảiผูกมั่นสูง กรณีใช้งาน: เส้นทางการค้าหลัก & ตลาดใหม่"
+      },
+      "image": "/images/global-network.png",
+      "alt": {
+        "en": "Global Network Map",
+        "th": "แผนที่เครือข่ายทั่วโลก"
+      }
+    },
+    {
+      "id": "professional",
+      "icon": "Users",
+      "title": {
+        "en": "Professional Team",
+        "th": "ทีมงานมืออาชีพ"
+      },
+      "description": {
+        "en": "A team of experienced international logistics experts with deep knowledge of global port regulations and customs policies. We provide 24/7 professional consulting and real-time assistance to ensure your cargo moves smoothly across borders.",
+        "th": "ทีมแกนต๊อกะผู้เชี่ยวชาญโลจิสติกส์สากล ทีมงานเชี่ยวชาญการขนส่งสินค้าระหว่างประเทศและเข้าใจนโยบายท่าเรือทั่วโลก เบรินบริการแบบ 24/7 เพื่อให้มั่นใจว่าสินค้าของคุณเคลื่อนย้ายข้ามพรมแดนอย่างราบรื่น"
+      },
+      "image": "/images/professional-team.png",
+      "alt": {
+        "en": "Professional Logistics Team",
+        "th": "ทีมงานโลจิสติกส์มืออาชีพ"
+      }
+    }
+  ]
+}

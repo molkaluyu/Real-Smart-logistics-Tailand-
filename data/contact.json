@@ -1,0 +1,39 @@
+{
+  "contactInfo": [
+    {
+      "icon": "Phone",
+      "title": {
+        "en": "Phone",
+        "th": "โทรศัพท์"
+      },
+      "details": "+66 6-3940-5799"
+    },
+    {
+      "icon": "Mail",
+      "title": {
+        "en": "Email",
+        "th": "อีเมล"
+      },
+      "details": "june.ren_bkk@rssclogistics.com"
+    },
+    {
+      "icon": "MessageSquare",
+      "title": {
+        "en": "Social",
+        "th": "โซเชียล"
+      },
+      "details": "WeChat: monv30 | LINE: jun.ren"
+    },
+    {
+      "icon": "MapPin",
+      "title": {
+        "en": "Address",
+        "th": "ที่อยู่"
+      },
+      "details": {
+        "en": "193/52 Lake Rajada Office, Unit 14A1, 14th Floor, Rachadapisek Road, Klongtoey, Bangkok 10110, Thailand",
+        "th": "193/52 Lake Rajada Office, หน่วย 14A1 ชั้น 14 ถนนรัชดาภิเษก แขวงคลองสี่ เขตคลองสี่ กรุงเทพฯ 10110 ประเทศไทย"
+      }
+    }
+  ]
+}

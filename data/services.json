@@ -1,0 +1,106 @@
+{
+  "services": [
+    {
+      "id": "air-freight",
+      "icon": "Plane",
+      "title": {
+        "en": "Air Freight Service",
+        "th": "บริการขนส่งทางอากาศ"
+      },
+      "description": {
+        "en": "Global airport-to-airport air freight services with solutions for direct flights and transit options. We offer specialized handling of dangerous goods and high-value cargo, along with comprehensive air import/export customs clearance services to ensure smooth operations.",
+        "th": "ขนส่งทางอากาศระหว่างสนามบินหลักทั่วโลก สนับสนุนโซลูชันการเดินทางทั้งเที่ยวบินตรงและเที่ยวบินเปลี่ยนสิ่งขนส่ง เรานำเสนอการจัดการพิเศษสำหรับสินค้าอันตรายและสินค้ามูลค่าสูง พร้อมบริการพิธีการศุลกากรนำเข้า-ส่งออกทางอากาศที่ครอบคลุมเพื่อให้มั่นใจในการดำเนินงานที่ราบรื่น"
+      },
+      "image": "/images/air-freight.png",
+      "alt": {
+        "en": "Air Freight Service",
+        "th": "บริการขนส่งทางอากาศ"
+      }
+    },
+    {
+      "id": "sea-freight",
+      "icon": "Ship",
+      "title": {
+        "en": "Sea Freight Service",
+        "th": "บริการขนส่งทางเรือ"
+      },
+      "description": {
+        "en": "Full Container Load (FCL) and Less than Container Load (LCL) shipping with coverage of major global port routes. We offer flexible sailing schedules, premium space guarantees, and special container services including Open Top, Flat Rack, and Platform containers. Track your cargo in real-time and access sailing schedules easily.",
+        "th": "บริการตู้คอนเทนเนอร์เต็มตู้ (FCL) และใช้เหลือ (LCL) ครอบคลุมเส้นทางท่าเรือหลักทั่วโลก เรานำเสนอตารางเวลาการเดินเรือที่ยืดหยุ่น การรับประกันพื้นที่ระดับพรีเมียม และบริการตู้คอนเทนเนอร์พิเศษรวมถึงตู้เปิดด้านบน ตู้พื้นเรียบ และตู้แพลตฟอร์ม ติดตามสินค้าของคุณแบบเรียลไทม์และเข้าถึงตารางเดินเรือได้อย่างง่ายดาย"
+      },
+      "image": "/images/sea-freight.png",
+      "alt": {
+        "en": "Sea Freight Service",
+        "th": "บริการขนส่งทางเรือ"
+      }
+    },
+    {
+      "id": "customs-clearance",
+      "icon": "FileCheck",
+      "title": {
+        "en": "Customs Clearance Service",
+        "th": "บริการตัดอนุภาค"
+      },
+      "description": {
+        "en": "Comprehensive import/export customs solutions with integrated service for commodity inspection, declaration, and clearance. We provide documentation support for permits and certificates of origin, customs policy consulting, solution optimization, and assistance with inspections, detentions, or customs emergencies.",
+        "th": "บริการตัดอนุภาคการส่งออก-นำเข้าครบวงจร บริการตรวจวัตถุดิบ ประกาศและตัดอนุภาคแบบบูรณาการ เราให้บริการสนับสนุนเอกสารสำหรับใบอนุญาตและหนังสือรับรองแหล่งกำเนิดสินค้า การให้คำปรึกษาด้านนโยบายศุลกากร การปรับปรุงโซลูชัน และความช่วยเหลือในการตรวจสอบ การกักกัน หรือเหตุฉุกเฉินทางศุลกากร"
+      },
+      "image": "/images/customs-clearance.png",
+      "alt": {
+        "en": "Customs Clearance Service",
+        "th": "บริการตัดอนุภาค"
+      }
+    },
+    {
+      "id": "road-transport",
+      "icon": "Truck",
+      "title": {
+        "en": "Road Transport Service",
+        "th": "บริการขนส่งทางบก"
+      },
+      "description": {
+        "en": "Efficient container trucking services with factory pickup and door-to-door delivery options. Our road network covers Thailand and neighboring countries, with multimodal transport coordination capabilities. Track your shipments in real-time with our advanced GPS vehicle tracking system for complete visibility.",
+        "th": "บริการขนส่งคอนเทนเนอร์ทางรถบรรทุกที่มีประสิทธิภาพพร้อมตัวเลือกการรับสินค้าจากโรงงานและการจัดส่งถึงบ้าน เครือข่ายถนนของเราครอบคลุมประเทศไทยและประเทศเพื่อนบ้าน พร้อมความสามารถในการประสานงานการขนส่งหลายรูปแบบ ติดตามการจัดส่งของคุณแบบเรียลไทม์ด้วยระบบติดตามยานพาหนะ GPS ขั้นสูงของเราเพื่อการมองเห็นที่สมบูรณ์"
+      },
+      "image": "/images/road-transport.png",
+      "alt": {
+        "en": "Road Transport Service",
+        "th": "บริการขนส่งทางบก"
+      }
+    },
+    {
+      "id": "oog",
+      "icon": "Package",
+      "title": {
+        "en": "Out of Gauge (OOG)",
+        "th": "บรรทุก Out of Gauge (OOG)"
+      },
+      "description": {
+        "en": "Specialized transport solutions for oversized, overweight, or over-limit cargo. Our professional team handles heavy equipment loading and unloading with precision. We deploy specialized vehicles and equipment, conduct thorough route surveys, optimize logistics planning, and implement comprehensive risk assessment and security protocols.",
+        "th": "โซลูชันการขนส่งเฉพาะทางสำหรับสินค้าขนาดใหญ่เกินขนาด น้ำหนักเกิน หรือเกินขีดจำกัด ทีมงานมืออาชีพของเราจัดการการบรรทุกและขนถ่ายอุปกรณ์หนักด้วยความแม่นยำ เราใช้ยานพาหนะและอุปกรณ์เฉพาะทาง ดำเนินการสำรวจเส้นทางอย่างละเอียด ปรับการวางแผนโลจิสติกส์ให้เหมาะสม และใช้การประเมินความเสี่ยงและโปรโตคอลความปลอดภัยที่ครอบคลุม"
+      },
+      "image": "/images/oversized-cargo.png",
+      "alt": {
+        "en": "Out of Gauge Transport",
+        "th": "การขนส่งสินค้าขนาดใหญ่พิเศษ"
+      }
+    },
+    {
+      "id": "cold-chain",
+      "icon": "Thermometer",
+      "title": {
+        "en": "Cold Chain Transportation",
+        "th": "ระบบขนส่งควบคุมอุณหภูมิ"
+      },
+      "description": {
+        "en": "End-to-end temperature-controlled logistics solutions for sensitive products. We provide refrigerated container services for pharmaceuticals, food, and other temperature-sensitive goods. Our real-time temperature monitoring systems ensure product integrity throughout transit, supported by our specialized cold storage and distribution network.",
+        "th": "โซลูชันโลจิสติกส์ควบคุมอุณหภูมิแบบ End-to-End สำหรับผลิตภัณฑ์ที่อ่อนไหว เราให้บริการตู้คอนเทนเนอร์ควบคุมความเย็นสำหรับยา อาหาร และสินค้าที่ไวต่ออุณหภูมิอื่นๆ ระบบตรวจสอบอุณหภูมิแบบเรียลไทม์ของเราช่วยรักษาความสมบูรณ์ของผลิตภัณฑ์ตลอดการขนส่ง โดยได้รับการสนับสนุนจากเครือข่ายคลังสินค้าและการกระจายสินค้าแบบควบคุมความเย็นเฉพาะทางของเรา"
+      },
+      "image": "/images/cold-chain.png",
+      "alt": {
+        "en": "Cold Chain Transportation",
+        "th": "ระบบขนส่งควบคุมอุณหภูมิ"
+      }
+    }
+  ]
+}
